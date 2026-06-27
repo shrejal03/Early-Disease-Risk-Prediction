@@ -36,3 +36,7 @@ Machine Learning project that predicts cardiovascular disease risk using patient
 ## Future Improvements
 - Deep Learning Models
 - Real-Time Prediction API
+
+## Live Demo
+
+https://early-disease-risk-prediction-5g3yukzhf57jp8kb5xvh3j.streamlit.app/
